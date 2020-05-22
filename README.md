@@ -1,2 +1,1 @@
-# CG_1
- CG_1
+# WEBGL Polygons
